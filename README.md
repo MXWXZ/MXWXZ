@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MXWXZ.MXWXZ)
 
-This is Xinzhe Wang, an OIer(retired), CTFer(0ops) and geeker :)
+This is Xinzhe Wang（王新哲）, an OIer(retired), CTFer(0ops) and geeker :)
 
 - 🐚 Welcome to my blog: https://www.imwxz.com/
 - ☕ Buy me a cup of coffee: https://github.com/sponsors/MXWXZ/
@@ -14,6 +14,15 @@ This is Xinzhe Wang, an OIer(retired), CTFer(0ops) and geeker :)
 - Bachelor of Engineering @ Shanghai Jiao Tong University (2017-2021)
   
   Software Engineering - Shanghai, China
+
+### Selected Honors and Awards
+- **1st Place** Huawei CTF, China 2023
+- **1st Place** XCTF College Cybersecurity Challenge 2022
+- **1st Place** ByteCTF, China 2021
+- **World Champion** DEF CON CTF Final(A\*O\*E) 2020
+- Shanghai Jiao Tong University original vulnerability reporter 2019
+
+[Full honor list](honor_wall.md)
 
 ### Stats
 
