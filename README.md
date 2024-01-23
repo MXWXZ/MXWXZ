@@ -15,14 +15,20 @@ This is Xinzhe Wang（王新哲）, an OIer(retired), CTFer(0ops) and geeker :)
   
   Software Engineering - Shanghai, China
 
-### Selected Honors and Awards
-- **1st Place** Huawei CTF, China 2023
-- **1st Place** XCTF College Cybersecurity Challenge 2022
-- **1st Place** ByteCTF, China 2021
-- **World Champion** DEF CON CTF Final(A\*O\*E) 2020
-- Shanghai Jiao Tong University original vulnerability reporter 2019
+### Publications
 
-[Full honor list](honor_wall.md)
+**"Detecting and Understanding Self-Deleting JavaScript Code"**.\
+<ins>Xinzhe Wang</ins>, Zeyang Zhuang, Wei Meng, James Cheng.\
+To appear in Proceedings of **The Web Conference 2024 (WWW)**, May 2024.
+
+### Selected Honors and Awards ([Full honor list](honor_wall.md))
+- **1st Place** Huawei CTF, 2023
+- **1st Place** XCTF College Cybersecurity Challenge, 2022
+- **1st Place** ByteCTF, 2021
+- **World Champion** DEF CON CTF Final(A\*O\*E), 2020
+- Shanghai Jiao Tong University original vulnerability reporter, 2019
+
+
 
 ### Stats
 
