@@ -3,6 +3,7 @@
 
 This is Xinzhe Wang（王新哲）, an OIer(retired), CTFer(0ops) and geeker :)
 
+- 📧 Contact me: matrixwxz[at]gmail.com / me[at]imwxz.com
 - 🐚 Welcome to my blog: https://www.imwxz.com/
 - ☕ Buy me a cup of coffee: https://github.com/sponsors/MXWXZ/
 
@@ -19,7 +20,7 @@ This is Xinzhe Wang（王新哲）, an OIer(retired), CTFer(0ops) and geeker :)
 
 **"Detecting and Understanding Self-Deleting JavaScript Code"**.\
 <ins>Xinzhe Wang</ins>, Zeyang Zhuang, Wei Meng, James Cheng.\
-To appear in Proceedings of **The Web Conference 2024 (WWW)**, May 2024.
+In Proceedings of **The Web Conference 2024 (WWW)** (oral presentation), May 2024.
 
 ### Selected Honors and Awards ([Full honor list](honor_wall.md))
 - **1st Place** Huawei CTF, 2023
@@ -27,8 +28,6 @@ To appear in Proceedings of **The Web Conference 2024 (WWW)**, May 2024.
 - **1st Place** ByteCTF, 2021
 - **World Champion** DEF CON CTF Final(A\*O\*E), 2020
 - Shanghai Jiao Tong University original vulnerability reporter, 2019
-
-
 
 ### Stats
 
