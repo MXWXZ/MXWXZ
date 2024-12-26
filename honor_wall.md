@@ -1,5 +1,6 @@
 # Honor Wall
 ## 2024
+- **2nd Place** Huawei CTF, China
 - **3rd Place** 'Qiang Wang Cup' National Cyber ​​Security Challenge
 
 ## 2023
